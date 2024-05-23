@@ -1,4 +1,3 @@
-- Hi, I’m Pedro
 - pt I'm a aspiring software developer and [ex]architectural designer from Portugal
 - 👩‍🏫 Right now I'm tinkering on...  sharpening my tech skills through structured learning
 - ❤️ Fascinated by the intersection of technology and design.
