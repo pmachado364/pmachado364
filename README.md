@@ -1,4 +1,4 @@
-- pt I'm a aspiring software developer and [ex]architectural designer from Portugal
+- I'm a aspiring software developer and [ex]architectural designer from Portugal
 - Tinkering on sharpening my tech skills through structured learning
 - Fascinated by the intersection of technology and design.
 - Exploring coding with an architect's eye for detail, a love for digital illustration, and a gamer's curiosity.
