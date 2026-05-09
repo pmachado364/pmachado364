@@ -28,8 +28,8 @@ former architect · singapore · london · porto · curious by default
 |--------|-------------|-------|
 | [Webserv](https://github.com/pmachado364/webserv) | HTTP/1.1 compliant web server built from scratch. Non-blocking I/O with epoll, configurable routing, and CGI execution | C++98 |
 | [Inception](https://github.com/pmachado364/inception) | Containerized web infrastructure with Docker Compose: NGINX reverse proxy, MariaDB, WordPress, and custom Dockerfiles | Docker, NGINX, MariaDB |
-| [Minishell](https://github.com/pmachado364/minishell) | Unix shell with command parsing, execution flow, pipes, and Bash-like built-ins | C |
-| [Philosophers](https://github.com/pmachado364/philosophers) | Multithreaded dining philosophers simulation handling race conditions, deadlocks, and timing precision | C |
+| [Minishell](https://github.com/pmachado364/mini_shell) | Unix shell with command parsing, execution flow, pipes, and Bash-like built-ins | C |
+| [Philosophers](https://github.com/pmachado364/42-Philosophers) | Multithreaded dining philosophers simulation handling race conditions, deadlocks, and timing precision | C |
 | [Cub3D](https://github.com/pmachado364/cub3D) | 3D maze renderer built in C using raycasting, inspired by Wolfenstein 3D | C |
 | [Corrente de Ar](https://corrente-de-ar.com) | Multilingual React website for a Lisbon art platform, with responsive layouts and Vercel deployment | React, Vite, Tailwind CSS |
 
