@@ -31,7 +31,7 @@ former architect · singapore · london · porto · curious by default
 | [Minishell](https://github.com/pmachado364/mini_shell) | Unix shell with command parsing, execution flow, pipes, and Bash-like built-ins | C |
 | [Philosophers](https://github.com/pmachado364/42-Philosophers) | Multithreaded dining philosophers simulation handling race conditions, deadlocks, and timing precision | C |
 | [Cub3D](https://github.com/pmachado364/cub3D) | 3D maze renderer built in C using raycasting, inspired by Wolfenstein 3D | C |
-| [Corrente de Ar](https://corrente-de-ar.com) | Multilingual React website for a Lisbon art platform, with responsive layouts and Vercel deployment | React, Vite, Tailwind CSS |
+| [Corrente de Ar](https://correntedear.com) | Multilingual React website for a Lisbon art platform, with responsive layouts and Vercel deployment | React, Vite, Tailwind CSS |
 
 ---
 
