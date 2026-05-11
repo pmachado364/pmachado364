@@ -15,7 +15,6 @@ former architect · singapore · london · porto
 <br><br>
 
 <a href="https://www.linkedin.com/in/psmmachado"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:pedro.machadosilva@proton.me"><img src="https://img.shields.io/badge/-Email-4fa69a?style=flat&logo=protonmail&logoColor=white"/></a> &nbsp;
 </div>
 
 <br><br>
