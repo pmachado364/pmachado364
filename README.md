@@ -6,11 +6,11 @@
 
 <br><br>
 
-pedro machado · software engineering student at 42 porto
+Hi i'm Pedro · software engineering student at 42 porto
 
 <br>
 
-former architect · singapore · london · porto · curious by default
+former architect · singapore · london · porto
 
 <br><br>
 
