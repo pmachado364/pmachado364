@@ -14,7 +14,6 @@ former architect · singapore · london · porto
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/psmmachado"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 </div>
 
 <br><br>
